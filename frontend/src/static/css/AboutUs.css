@@ -1,0 +1,35 @@
+.aboutUs__con {
+  margin-top: 20px;
+}
+.card__con {
+  display: flex;
+  padding-left: 30px;
+  padding-right: 30px;
+  justify-content: center;
+}
+.about__text {
+  text-align: center;
+  font-size: 30px;
+  font-family: "Vidaloka", serif;
+  margin-bottom: 20px;
+}
+.card__link {
+  margin-right: 15px;
+  color: inherit !important;
+}
+.card {
+  width: 20vw;
+  text-align: center;
+  padding: 20px;
+  transition: all 0.2s ease-in;
+}
+.card:hover {
+  transform: scale(1.05);
+}
+.card-body {
+}
+.card__img > img {
+  max-width: 25vh;
+  height: 25vh;
+  border-radius: 50%;
+}
