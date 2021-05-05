@@ -1,5 +1,4 @@
-# Translatish 
-Video Translation System
+# Translatish - Video Translation System
 
 
 <!--[![Issues](https://img.shields.io/github/issues/Translatish/Translatish)](https://github.com/Translatish/Translatish/)-->
